@@ -1,4 +1,4 @@
-package com.krunal.notes_app.modules.Edit_Notes
+package com.krunal.notes_app.Modules.Edit_Notes
 
 import android.app.AlertDialog
 import android.content.DialogInterface
@@ -16,8 +16,8 @@ import com.krunal.notes_app.Database.NoteDAO
 import com.krunal.notes_app.MyApplication
 import com.krunal.notes_app.R
 import com.krunal.notes_app.databinding.FragmentEditNotesBinding
-import com.krunal.notes_app.model.NotesModel
-import com.krunal.notes_app.modules.BaseFragment
+import com.krunal.notes_app.Model.NotesModel
+import com.krunal.notes_app.Modules.BaseFragment
 import kotlinx.coroutines.launch
 import java.util.*
 import javax.inject.Inject

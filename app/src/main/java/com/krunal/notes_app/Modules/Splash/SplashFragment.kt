@@ -1,4 +1,4 @@
-package com.krunal.notes_app.modules.Splash
+package com.krunal.notes_app.Modules.Splash
 
 import android.os.Bundle
 import android.os.Handler

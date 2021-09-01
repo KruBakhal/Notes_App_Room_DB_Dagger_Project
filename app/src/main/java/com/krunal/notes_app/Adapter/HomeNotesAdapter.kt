@@ -9,9 +9,8 @@ import com.krunal.notes_app.Helper.getDateString
 import com.krunal.notes_app.Helper.getTimeString
 import com.krunal.notes_app.Intermediate.BaseInterface
 import com.krunal.notes_app.R
-import com.krunal.notes_app.model.NotesModel
+import com.krunal.notes_app.Model.NotesModel
 import java.util.*
-import kotlin.collections.ArrayList
 
 class HomeNotesAdapter(
     private var moviesList: List<NotesModel>?,

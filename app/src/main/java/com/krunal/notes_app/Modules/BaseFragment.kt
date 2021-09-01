@@ -1,4 +1,4 @@
-package com.krunal.notes_app.modules
+package com.krunal.notes_app.Modules
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment

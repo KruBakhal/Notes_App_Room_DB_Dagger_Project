@@ -1,4 +1,4 @@
-package com.krunal.notes_app.model
+package com.krunal.notes_app.Model
 
 import androidx.room.ColumnInfo
 import androidx.room.Entity

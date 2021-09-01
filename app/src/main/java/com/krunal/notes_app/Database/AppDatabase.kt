@@ -4,7 +4,7 @@ import android.content.Context
 import androidx.room.Database
 import androidx.room.Room
 import androidx.room.RoomDatabase
-import com.krunal.notes_app.model.NotesModel
+import com.krunal.notes_app.Model.NotesModel
 
 @Database(
     entities = [NotesModel::class], version = 1

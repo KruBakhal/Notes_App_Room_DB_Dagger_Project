@@ -1,7 +1,7 @@
 package com.krunal.notes_app.Database
 
 import androidx.room.*
-import com.krunal.notes_app.model.NotesModel
+import com.krunal.notes_app.Model.NotesModel
 
 @Dao
 interface NoteDAO {

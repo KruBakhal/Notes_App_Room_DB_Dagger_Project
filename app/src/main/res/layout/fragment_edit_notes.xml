@@ -7,7 +7,7 @@
     android:background="@color/color_primary_bg"
     android:gravity="center_horizontal"
     android:orientation="vertical"
-    tools:context=".modules.Edit_Notes.EditNotesFragment">
+    tools:context=".Modules.Edit_Notes.EditNotesFragment">
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:id="@+id/actionBarSplash"

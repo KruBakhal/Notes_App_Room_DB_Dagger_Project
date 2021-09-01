@@ -1,8 +1,8 @@
 package com.krunal.notes_app.DI;
 
-import com.krunal.notes_app.modules.Add_Notes.AddNotesFragment
-import com.krunal.notes_app.modules.Edit_Notes.EditNotesFragment
-import com.krunal.notes_app.modules.Home.HomeFragment
+import com.krunal.notes_app.Modules.Add_Notes.AddNotesFragment
+import com.krunal.notes_app.Modules.Edit_Notes.EditNotesFragment
+import com.krunal.notes_app.Modules.Home.HomeFragment
 
 import javax.inject.Singleton;
 
